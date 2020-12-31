@@ -35,6 +35,17 @@ This is the statistics post removal for THS:
 Here we can see that the new math percent is 93.18569%, which is a negative difference of .086481%; reading is now at 97.018739%, which is a .29013% decrease; overall passing is at 90.630324%, which is a lower value by .317688%.
 
 ### Analysis
+In the following data statistics, we can see that in a majority of the schools, the students across the grades will have higher scores in reading over math. We can also note that moving across each year, the improvement per each category remails somewhat of a flat line.
+![math]() ![reading]()
+
+In the following chart, we are looking at a fiscal relation to the scores. We can see that the highest rating is on the lower fiscal spending. which out performs the highest by 36%. This indicates a negative coorelation from spending and cost per student spending.
+![money chart]()
+
+Next we will look at the school size comparisons. We can note that the largest pool size has done more poorly than compared to the <2000 student school size.  
+![school size]()
+
+Finally we will look at how charter schools compare with district schools. We notice that overall the charter schools out perform district on all levels.
+![charter vs district]()
 
 
 ## Summary
