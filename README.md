@@ -55,3 +55,6 @@ Finally we will look at how charter schools compare with district schools. We no
 
 
 ## Summary
+The removal of the 9th grade scores from Thomas High School has shown a small impact to the overall school's performance. We notice a decrease in the overall passing by 0.1%, in math by 0.2% and a 0.3% in reading.
+
+With this slight change in data, it does not affect the standings of THS and does not affect significantly of overall scores or spending.
