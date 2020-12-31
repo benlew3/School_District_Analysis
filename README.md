@@ -23,8 +23,16 @@ In comparison, after removing the 9th grader data set, the data set now looks li
 In looking at the 2 images, we noticed that the % passing math went down by 0.2% and the average score went down by .1 point. The passing % for reading went down by 0.3% but the average point remained the same. As for overall passing, the average passing went down by 0.1%.
 
 ### School Summary:
+Here we can view the full data from before and after removing the 9th grader's data. 
+
+This is the statistics prior to removing the THS (Thomas High School) 9th grade information: 
 ![old model](https://github.com/benlew3/School_District_Analysis/blob/main/img/school_summary1.PNG)
+
+In the chart before the removal, we can see that THS has an average passing % of 93.272171% for math, 97.308869% for reading, and overall passing at 90.948012%.
+
+This is the statistics post removal for THS: 
 ![new model](https://github.com/benlew3/School_District_Analysis/blob/main/img/School_summary2.PNG)
+Here we can see that the new math percent is 93.18569%, which is a negative difference of .086481%; reading is now at 97.018739%, which is a .29013% decrease; overall passing is at 90.630324%, which is a lower value by .317688%.
 
 ### Analysis
 
