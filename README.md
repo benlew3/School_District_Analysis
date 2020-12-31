@@ -36,16 +36,22 @@ Here we can see that the new math percent is 93.18569%, which is a negative diff
 
 ### Analysis
 In the following data statistics, we can see that in a majority of the schools, the students across the grades will have higher scores in reading over math. We can also note that moving across each year, the improvement per each category remails somewhat of a flat line.
-![math]() ![reading]()
+
+![math](https://github.com/benlew3/School_District_Analysis/blob/main/img/math_scores.PNG) ![reading](https://github.com/benlew3/School_District_Analysis/blob/main/img/reading_scores.PNG)
+
 
 In the following chart, we are looking at a fiscal relation to the scores. We can see that the highest rating is on the lower fiscal spending. which out performs the highest by 36%. This indicates a negative coorelation from spending and cost per student spending.
-![money chart]()
 
-Next we will look at the school size comparisons. We can note that the largest pool size has done more poorly than compared to the <2000 student school size.  
-![school size]()
+![money chart](https://github.com/benlew3/School_District_Analysis/blob/main/img/spending.PNG)
+
+
+Next we will look at the school size comparisons. We can note that the largest pool size has done more poorly than compared to the <2000 student school size. 
+
+![school size](https://github.com/benlew3/School_District_Analysis/blob/main/img/size_chart.PNG)
+
 
 Finally we will look at how charter schools compare with district schools. We notice that overall the charter schools out perform district on all levels.
-![charter vs district]()
+![charter vs district](https://github.com/benlew3/School_District_Analysis/blob/main/img/charter.PNG)
 
 
 ## Summary
